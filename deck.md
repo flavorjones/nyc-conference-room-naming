@@ -13,36 +13,13 @@
 ![pic](assets/altman4.jpg)
 
 ---
-# Sloane
-
-888 Broadway, circa 1881
-
-[more](http://daytoninmanhattan.blogspot.com/2011/12/w-j-sloane-buildling-880-888-broadway.html)
-
-![pic](assets/sloane.jpg)
-
----
 # Constable
 
 115 Fifth Avenue, circa 1876
 
-[more](http://daytoninmanhattan.blogspot.com/2011/12/w-j-sloane-buildling-880-888-broadway.html)
+[more](http://daytoninmanhattan.blogspot.com/2010/03/arnold-constable-dry-goods-store.html)
 
 ![pic](assets/constable.jpg)
-
----
-# Best & Co.
-
-Sixth Avenue near 23rd, circa 1879
-
-couldn't find a photo
-
----
-# Bergdorf Goodman (5th)
-
-Fifth Avenue and 32nd, circa 1906
-
-couldn't find a photo
 
 ---
 # Pierrepont (5th)
@@ -124,17 +101,6 @@ West 23rd, circa 1878
 ![pic](assets/stern.jpg)
 
 ---
-# Lord & Taylor (Broadway)
-
-Broadway and 19th, circa 1870
-
-[more](http://daytoninmanhattan.blogspot.com/2010/04/surviving-sliver-of-old-lord-taylor.html)
-
-![pic](assets/lt.jpg)
-![pic](assets/lt2.jpg)
-
-
----
 # Macy
 
 Sixth Avenue and 14th Street, circa 1858
@@ -142,19 +108,6 @@ Sixth Avenue and 14th Street, circa 1858
 [more](http://jason-cochran.com/blog/the-ghosts-of-macys-on-14th-street/)
 
 ![pic](assets/macys.jpg)
-
----
-# Wanamaker
-
-Broadway and 10th, circa 1906
-
-"the iron palace"
-
-not really in the neighborhood, though
-
-[more](http://daytoninmanhattan.blogspot.com/2012/11/the-1906-john-wanamaker-annex-no-770.html)
-
-![pic](assets/ironpalace.jpg)
 
 ---
 # Adams
@@ -173,16 +126,6 @@ Sixth Ave at 22th Street, circa 1889
 [more](http://daytoninmanhattan.blogspot.com/2011/06/1889-ehrich-brothers-dry-goods-store.html)
 
 ![pic](assets/ehrich.jpg)
-
----
-# Gimbel
-
-???
-
----
-# Saks
-
-???
 
 ---
 # Limelight
@@ -206,17 +149,6 @@ Sixth Ave at 22th Street, circa 1889
 ![pic](assets/simpson2.jpg)
 
 ---
-# McCreery
-
-Broadway at 11th, circa 1869
-
-not really in the neighborhood
-
-[more](http://daytoninmanhattan.blogspot.com/2011/03/1868-mccreery-co-dry-goods-store-801.html)
-
-![pic](assets/mccreery.jpg)
-
----
 # Century Club
 
 111 E 15th, circa 1847
@@ -237,14 +169,37 @@ not really in the neighborhood
 ![pic](assets/ditson.jpg)
 
 ---
-# Errico
+# Cammeyer
 
-???
+Sixth Ave and 20th St, circa 1892
+
+[more](http://daytoninmanhattan.blogspot.com/2010/09/1892-cammeyer-building.html)
+
+![pic](assets/cammeyer.jpg)
+![pic](assets/cammeyer2.jpg)
 
 ---
-# Macintyre
+# Stewart
 
-???
+Fifth Avenue at 35th, circa 1914
+
+[more](http://daytoninmanhattan.blogspot.com/2012/12/the-1914-stewart-building-nos-402-404.html)
+
+![pics](assets/stewart1914.jpg)
+
+---
+# Best & Co.
+
+Sixth Avenue near 23rd, circa 1879
+
+couldn't find a photo
+
+---
+# Bergdorf Goodman (5th)
+
+Fifth Avenue and 32nd, circa 1906
+
+couldn't find a photo
 
 ---
 # Goelet
@@ -254,16 +209,6 @@ not really in the neighborhood
 [more](http://daytoninmanhattan.blogspot.com/2012/11/the-1886-goelet-buildling-nos-894-900.html)
 
 ![pic](assets/goelet.jpg)
-
----
-# Cammeyer
-
-Sixth Ave and 20th St, circa 1892
-
-[more](http://daytoninmanhattan.blogspot.com/2010/09/1892-cammeyer-building.html)
-
-![pic](assets/cammeyer.jpg)
-![pic](assets/cammeyer2.jpg)
 
 ---
 # Gorham
@@ -307,9 +252,47 @@ civil war period architecture
 ![pic](assets/mortimer.jpg)
 
 ---
-# Parish
+# Lord & Taylor
 
-???
+Broadway and 19th, circa 1870
+
+[more](http://daytoninmanhattan.blogspot.com/2010/04/surviving-sliver-of-old-lord-taylor.html)
+
+![pic](assets/lt.jpg)
+![pic](assets/lt2.jpg)
+
+---
+# Wanamaker
+
+Broadway and 10th, circa 1906
+
+"the iron palace"
+
+not really in the neighborhood, though
+
+[more](http://daytoninmanhattan.blogspot.com/2012/11/the-1906-john-wanamaker-annex-no-770.html)
+
+![pic](assets/ironpalace.jpg)
+
+---
+# Sloane
+
+888 Broadway, circa 1881
+
+[more](http://daytoninmanhattan.blogspot.com/2011/12/w-j-sloane-buildling-880-888-broadway.html)
+
+![pic](assets/sloane.jpg)
+
+---
+# McCreery
+
+Broadway at 11th, circa 1869
+
+not really in the neighborhood
+
+[more](http://daytoninmanhattan.blogspot.com/2011/03/1868-mccreery-co-dry-goods-store-801.html)
+
+![pic](assets/mccreery.jpg)
 
 ---
 # Hawes
@@ -323,10 +306,26 @@ smaller
 ![pic](assets/hawes.jpg)
 
 ---
-# Stewart
+# Gimbel
 
-Fifth Avenue at 35th, circa 1914
+???
 
-[more](http://daytoninmanhattan.blogspot.com/2012/12/the-1914-stewart-building-nos-402-404.html)
+---
+# Saks
 
-![pics](assets/stewart1914.jpg)
+???
+
+---
+# Parish
+
+???
+
+---
+# Errico
+
+???
+
+---
+# Macintyre
+
+???
