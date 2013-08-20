@@ -2,8 +2,6 @@
 
 ## Conference room name research
 
-1
-
 ---
 # Altman
 
